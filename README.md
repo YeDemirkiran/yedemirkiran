@@ -72,7 +72,7 @@ A hack-and-slash game inspired by DMC5 and MGR:R. Playable on your browser.
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://ironbreaker.itch.io/space-cowboy)
 [![repo](https://img.shields.io/badge/Code-000?logo=github&logoColor=white)](https://github.com/YeDemirkiran/bullet-hell)
 
-A hack-and-slash game inspired by DMC5 and MGR:R. Playable on your browser.
+A game where you play an alien cowboy and try to escape from other hostile aliens.
 
 <hr>
 
